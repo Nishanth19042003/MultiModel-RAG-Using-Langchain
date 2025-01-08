@@ -56,4 +56,4 @@ Future Enhancements
 Extend support for additional data modalities.
 Improve summarization and query resolution for large datasets.
 Contact
-For questions or contributions, contact [your-email@example.com].
+For questions or contributions, contact [nishanthp19042003.com].
