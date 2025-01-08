@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/multimodal-rag.git
+git clone https://github.com/Nishanth19042003/MultiModel-RAG-Using-Langchain.git
 cd multimodal-rag
 Install dependencies as described above.
 
