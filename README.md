@@ -1,4 +1,4 @@
-#Multimodal Retrieval-Augmented Generation (RAG) System
+# Multimodal Retrieval-Augmented Generation (RAG) System
 This repository contains a Jupyter Notebook demonstrating a Multimodal RAG System designed for information retrieval and summarization using various data modalities, including text, PDFs, and tables.
 
 Features
